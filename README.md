@@ -10,6 +10,7 @@ HDD Seagate 1TB<br><br>
 Work:<br>
 Screenlight PNLF<br>
 Backlight keyboard<br>
+Battery Status<br>
 Audio Conexant CX20590<br><br>
 
 Not work:<br>
