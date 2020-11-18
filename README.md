@@ -17,4 +17,8 @@ Not work:<br>
 DW1703<br>
 
 Sceenshot:<br>
-![alt text](https://github.com/nghiakhoi/hinhupload/blob/main/Screen%20Shot%202020-11-18%20at%205.50.43%20PM.png)
+![alt text](https://github.com/nghiakhoi/hinhupload/blob/main/Screen%20Shot%202020-11-18%20at%205.50.43%20PM.png)<br>
+![alt text](https://github.com/nghiakhoi/hinhupload/blob/main/Screen%20Shot%202020-11-18%20at%205.50.52%20PM.png)<br>
+![alt text](https://github.com/nghiakhoi/hinhupload/blob/main/Screen%20Shot%202020-11-18%20at%205.51.00%20PM.png)<br>
+![alt text](https://github.com/nghiakhoi/hinhupload/blob/main/Screen%20Shot%202020-11-18%20at%205.51.08%20PM.png)<br>
+![alt text](https://github.com/nghiakhoi/hinhupload/blob/main/Screen%20Shot%202020-11-18%20at%205.51.43%20PM.png)<br>
