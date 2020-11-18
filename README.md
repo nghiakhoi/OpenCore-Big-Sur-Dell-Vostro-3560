@@ -5,4 +5,13 @@ i5 3230M (HD4000)<br>
 GPU AMD HD7670M (disabled)<br>
 RAM 16gb<br>
 SSD Netac 256GB<br>
-HDD Seagate 1TB<br>
+HDD Seagate 1TB<br><br>
+
+Work:<br>
+Screenlight PNLF<br>
+Backlight keyboard<br>
+Audio Conexant CX20590<br><br>
+
+Not work:<br>
+DW1703<br>
+
