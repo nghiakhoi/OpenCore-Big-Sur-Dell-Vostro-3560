@@ -16,3 +16,5 @@ Audio Conexant CX20590<br><br>
 Not work:<br>
 DW1703<br>
 
+Sceenshot:<br>
+![alt text](https://github.com/nghiakhoi/hinhupload/blob/main/Screen%20Shot%202020-11-18%20at%205.50.43%20PM.png)
